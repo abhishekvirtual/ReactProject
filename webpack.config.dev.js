@@ -8,7 +8,7 @@ module.exports = {
   mode: "development",
   target: "web",
   devtool: "cheap-module-source-map",
-  entry: "./src/test",
+  entry: "./src/design_patterns/test_file",
   output: {
     path: path.resolve(__dirname, "build"),
     publicPath: "/",
