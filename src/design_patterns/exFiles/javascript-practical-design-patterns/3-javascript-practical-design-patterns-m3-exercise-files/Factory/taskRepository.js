@@ -22,4 +22,4 @@ var repo = function () {
 
 }
 
-module.exports = repo();
+module.exports = repo;

@@ -1,4 +1,4 @@
-var Repo = require('./taskRepository');
+var Repo = require('./taskRepository')();
 
 var Task = function (data) {
     this.name = data.name;
